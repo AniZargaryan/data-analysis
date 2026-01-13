@@ -77,6 +77,7 @@ data-analysis
 ├─ data_films.csv # исходный датасет
 ├─ movies-data-analysis.ipynb # основной анализ данных
 ├─ requirements.txt # список зависимостей
+├─ Краткая презентация проекта.pdf # тематика датасета, 
 └─ README.md # описание проекта
 ```
 
